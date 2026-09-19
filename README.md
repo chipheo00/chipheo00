@@ -26,6 +26,7 @@
 
 | | Project | Mô tả |
 |---|---------|-------|
+| 📊 | [wealth-vn](https://github.com/chipheo00/wealth-vn) | **WealthVN** — Vietnamese-market portfolio tracker (Tauri + Rust + TS), local-first, fork của Wealthfolio |
 | 🔧 | `pf-backend` *(private)* | Portfolio platform backend — **Rust** + Axum + PostgreSQL, hiệu năng + type-safety trước tiên |
 | 📈 | [vn-market-service](https://github.com/chipheo00/vn-market-service) | Market-data service công khai cho chứng khoán Việt Nam (Python) |
 | 💻 | [open-end-fund-page](https://github.com/chipheo00/open-end-fund-page) | Trang theo dõi quỹ mở (TypeScript) |
