@@ -26,11 +26,11 @@
 
 | | Project | Mô tả |
 |---|---------|-------|
-| 🔧 | [pf-backend](https://github.com/chipheo00/pf-backend) | Portfolio backend bằng **Rust** — hiệu năng + type-safety trước tiên |
+| 🔧 | `pf-backend` *(private)* | Portfolio platform backend — **Rust** + Axum + PostgreSQL, hiệu năng + type-safety trước tiên |
 | 📈 | [vn-market-service](https://github.com/chipheo00/vn-market-service) | Market-data service công khai cho chứng khoán Việt Nam (Python) |
 | 💻 | [open-end-fund-page](https://github.com/chipheo00/open-end-fund-page) | Trang theo dõi quỹ mở (TypeScript) |
-| 🧩 | [pf-mcp](https://github.com/chipheo00/pf-mcp) | MCP server — kết nối portfolio vào AI agents |
-| 🏠 | [homelab-backup](https://github.com/chipheo00/homelab-backup) | Infrastructure-as-code cho homelab |
+| 🧩 | `pf-mcp` *(private)* | MCP server — kết nối portfolio vào AI agents |
+| 🏠 | `homelab-backup` *(private)* | Homelab infrastructure-as-code — monitoring, proxy, DNS, agent fleet |
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chipheo00&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" />
