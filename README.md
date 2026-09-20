@@ -3,8 +3,8 @@
 > Backend-leaning full-stack engineer — xây hệ thống fintech, market-data và các công cụ tự động hoá cho công việc hằng ngày.
 
 - 🔭 Đang làm: **platform đầu tư cá nhân** — Rust backend, TypeScript frontend, market-data service cho chứng khoán VN
-- 🏗️ Homelab: self-hosted monitoring, reverse proxy, DNS + automation agents chạy 24/7 trên Mac mini
-- 🤖 AI agents là mảng chính: QA Automation engineer bằng ngày, tối ưu multi-agent setups bằng autopilot workflow
+- 🏗️ Homelab: self-hosted monitoring, reverse proxy, DNS + automation agents chạy 24/7
+- 🤖 AI agents là mảng chính: QA Automation engineer hàng ngày, tối ưu multi-agent setups bằng autopilot workflow
 - 🌱 Stack chính: **Rust · TypeScript · Python · PostgreSQL/PLpgSQL**
 
 ## 🛠 Tech Stack
