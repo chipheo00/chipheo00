@@ -4,7 +4,7 @@
 
 - 🔭 Đang làm: **platform đầu tư cá nhân** — Rust backend, TypeScript frontend, market-data service cho chứng khoán VN
 - 🏗️ Homelab: self-hosted monitoring, reverse proxy, DNS + automation agents chạy 24/7 trên Mac mini
-- 🤖 AI agents là mảng chính: QA Automation engineer bằng ngày, tối ưu multi-agent setups bằng đêm
+- 🤖 AI agents là mảng chính: QA Automation engineer bằng ngày, tối ưu multi-agent setups bằng autopilot workflow
 - 🌱 Stack chính: **Rust · TypeScript · Python · PostgreSQL/PLpgSQL**
 
 ## 🛠 Tech Stack
@@ -27,9 +27,7 @@
 | | Project | Mô tả |
 |---|---------|-------|
 | 📊 | [wealth-vn](https://github.com/chipheo00/wealth-vn) | **WealthVN** — Vietnamese-market portfolio tracker (Tauri + Rust + TS), local-first, fork của Wealthfolio |
-| 🔧 | `pf-backend` *(private)* | Portfolio platform backend — **Rust** + Axum + PostgreSQL, hiệu năng + type-safety trước tiên |
 | 📈 | [vn-market-service](https://github.com/chipheo00/vn-market-service) | Market-data service công khai cho chứng khoán Việt Nam (Python) |
-| 🧩 | `pf-mcp` *(private)* | MCP server — kết nối portfolio vào AI agents |
 | 🏠 | `homelab-backup` *(private)* | Homelab infrastructure-as-code — monitoring, proxy, DNS, agent fleet |
 
 <p align="center">
